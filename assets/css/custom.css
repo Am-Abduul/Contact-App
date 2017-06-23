@@ -1,5 +1,6 @@
 body {
 	padding-top: 70px;
+    padding-bottom: 50px;
 	background: #eee;
 }
 
@@ -13,7 +14,7 @@ body {
 	font-weight: bold;
 	letter-spacing: -1px;
 	font-size: 20px;
-	color: #dd5638;
+	color: black;
 }
 
 .navbar-right {
@@ -53,4 +54,12 @@ body {
 	font-size: 12px;
 	line-height: 1.428571429;
 	border-radius: 15px;
+}
+/*
+.ContactSearch{
+    padding-top: 10px;
+}
+*/
+#contact-add-contact{
+    padding-bottom: 5px;
 }
